@@ -1,0 +1,22 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979-learning/stellar.git"
+  },
+  "dependencies" : {
+    "stellar-sdk" : ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you21979-learning/stellar/issues"
+  },
+  "homepage": "https://github.com/you21979-learning/stellar#readme"
+}
